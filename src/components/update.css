@@ -1,0 +1,17 @@
+.data{
+    height: auto;
+    max-width: 200px;
+    padding:10px;
+    border: 2px solid black;
+}
+
+.form{
+    margin-top: 20px;
+    height: 100px;
+}
+
+input{
+    margin-left: 10px;
+    margin-right:10px   ;
+   height: 10px;
+}
